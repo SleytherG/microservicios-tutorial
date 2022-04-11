@@ -6,13 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="carro-service" />
+        <module name="config-service" />
         <module name="demo" />
         <module name="moto-service" />
-        <module name="carro-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="carro-service" target="1.8" />
+      <module name="config-service" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="moto-service" target="1.8" />
     </bytecodeTargetLevel>
@@ -20,6 +22,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="carro-service" options="-parameters" />
+      <module name="config-service" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="moto-service" options="-parameters" />
     </option>

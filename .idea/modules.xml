@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MicroServicios-Example.iml" filepath="$PROJECT_DIR$/.idea/MicroServicios-Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-carro-service/carro-service.iml" filepath="$PROJECT_DIR$/02-carro-service/carro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-config-service/config-service.iml" filepath="$PROJECT_DIR$/04-config-service/config-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-usuario-service/demo.iml" filepath="$PROJECT_DIR$/01-usuario-service/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-moto-service/moto-service.iml" filepath="$PROJECT_DIR$/03-moto-service/moto-service.iml" />
     </modules>
