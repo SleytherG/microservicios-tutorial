@@ -13,11 +13,11 @@ spring:
   cloud:
     gateway:
       discovery:
-        localtor:
+        locator:
           enabled: true
       routes:
-        - id: usuario-service
-          uri: lb://usuario-service
+        - id: demo
+          uri: lb://demo
           predicates:
             - Path=/usuario/**
         - id: carro-service
@@ -28,3 +28,5 @@ spring:
             uri: lb://moto-service
             predicates:
               - Path=/moto/**
+
+

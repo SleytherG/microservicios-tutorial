@@ -11,7 +11,8 @@
     <file url="file://$PROJECT_DIR$/04-config-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-eureka-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-eureka-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-gateway-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/gateway-service/src/main/java" charset="UTF-8" />
   </component>
 </project>
